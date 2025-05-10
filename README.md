@@ -1,6 +1,7 @@
-<div style="background: #f5f5f5; padding: 16px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
+# Starfield Simulation
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#Starfield Simulation
+![Swing](https://img.shields.io/badge/GUI-Java_Swing-007396)
 
 A mesmerizing Java Swing animation of stars moving through 3D space
 
